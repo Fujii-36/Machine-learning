@@ -1,6 +1,6 @@
 # Prediction of temperature
 
-### ● if run the code(predict_temp.py) on the local, need to install below.
+### ● if run the code(predict_temp.ipynb) on the local, need to install below.
 
 $ pip install scikit-learn pandas numpy requests beautifulsoup4 matplotlib pytz
 
